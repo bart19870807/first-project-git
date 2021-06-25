@@ -1,0 +1,17 @@
+.main-title {
+    color:black;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.song-author {
+    color: red;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.song-text p {
+    color: darkslategrey;
+    font-size: 16px;
+    text-align: center;
+}
