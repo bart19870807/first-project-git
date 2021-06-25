@@ -1,0 +1,24 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bart19870807/first-project-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bart19870807/first-project-git/issues"
+  },
+  "homepage": "https://github.com/bart19870807/first-project-git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.1",
+    "html-validate": "^4.14.0"
+  }
+}
